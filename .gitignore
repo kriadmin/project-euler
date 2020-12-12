@@ -5,6 +5,7 @@ cabal-dev
 *.hi
 *.hie
 *.chi
+*.exe
 *.chs.h
 *.dyn_o
 *.dyn_hi
@@ -21,4 +22,3 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
-*.exe
